@@ -85,3 +85,8 @@ body {
 .section-hero__subheading {
     color: #ffffff;
 }
+
+.title {
+    margin-top: 100px;
+    text-align: center;
+}
